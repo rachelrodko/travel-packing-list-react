@@ -1,7 +1,7 @@
 # Travel Packing List
 #### (React)
 
-A simple React application of creating a list of items to pack for a holiday and keeping track on whether they are packed or not.
+A simple React application of creating a list of items to pack for a holiday and keeping track on whether they are packed or not. The application has been crated in Create React App.
 
 ## How it works
 
@@ -15,4 +15,6 @@ $ git clone https://github.com/rachelrodko/travel-packing-list-react.git travel_
 $ npm install
 $ npm start
 ```
-##
+## Amendments for the future
+
+I need to migrate this application to Vite as many dependencies are flagged during the installation. 
