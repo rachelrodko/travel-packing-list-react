@@ -1,4 +1,4 @@
-#Travel Packing List
+# Travel Packing List
 #### (React)
 
 A simple React application of creating a list of items to pack for a holiday and keeping track on whether they are packed or not.
