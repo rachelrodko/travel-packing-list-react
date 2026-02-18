@@ -1,7 +1,7 @@
 # Travel Packing List
 #### (React)
 
-A simple React application of creating a list of items to pack for a holiday and keeping track on whether they are packed or not. The application has been crated in Create React App.
+A simple React application of creating a list of items to pack for a holiday and keeping track on whether they are packed or not. The application has been created in Create React App.
 
 ## How it works
 
